@@ -6,7 +6,7 @@
 
 一共 10 篇造轮子的文章。
 
-* [造一个 React 错误边界的轮子](https://github.com/Haixiang6123/my-react-error-bounday)
+* [造一个 react-error-boundary 轮子](https://github.com/Haixiang6123/my-react-error-bounday)
 * [造一个 idb-keyval 轮子](https://github.com/Haixiang6123/my-idb-keyval)
 * [造一个 js-cookie 轮子](https://github.com/Haixiang6123/my-js-cookie)
 * [造一个 copy-to-clipboard 轮子](https://github.com/Haixiang6123/my-copy-to-clipboard)
