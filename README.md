@@ -1,5 +1,7 @@
 # 《一天学习一个 npm 轮子，十天后变成轮子哥》
 
+![](https://img.shields.io/github/stars/Haixiang6123/one-day-one-npm-lib?style=flat-square)
+
 ## 特别说明
 
 **点右上角的 Star 以快速收藏 :)**
