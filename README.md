@@ -6,6 +6,8 @@
 
 **点右上角的 Star 🌟 以快速收藏 :)**
 
+你也可以在 [知乎](https://www.zhihu.com/column/c_1371023921513472000) 和 [掘金](https://juejin.cn/column/6965512526624718856) 进行阅读。😉
+
 ## 作者 👻
 
 [@海怪](https://yanhaixiang.com/#/)
@@ -34,7 +36,3 @@
 * [造一个 redux 轮子](https://github.com/Haixiang6123/my-redux)
 * [造一个 redux-thunk 轮子](https://github.com/Haixiang6123/my-redux-thunk)
 * [造一个 supertest 轮子](https://github.com/Haixiang6123/my-supertest)
-
-## 不想在 Github 上阅读？ 🤯
-
-如果你觉得阅读 README 比较烦，也可以在 [知乎](https://www.zhihu.com/column/c_1371023921513472000) 和 [掘金](https://juejin.cn/column/6965512526624718856) 上阅读。😉
