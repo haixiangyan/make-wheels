@@ -6,13 +6,13 @@
 
 **点右上角的 Star 🌟 以快速收藏 :)**
 
-你也可以在 [知乎](https://www.zhihu.com/people/yan-hai-87-22) 和 [掘金](https://juejin.cn/user/272334614432887) 关注我 😉
-
 ## 作者 👻
 
-[@海怪](https://yanhaixiang.com/#/)
+[@写代码的海怪](https://yanhaixiang.com/#/)
 
 <img src="https://img-blog.csdnimg.cn/6ce461cc24c44ca58c698722d6549fe5.gif#pic_center" alt="公众号" width="500" >
+
+你也可以在 [知乎](https://www.zhihu.com/people/haixiangyan) 和 [掘金](https://juejin.cn/user/272334614432887) 关注我 😉
 
 ## 简介 🧐
 
